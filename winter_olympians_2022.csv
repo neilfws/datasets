@@ -609,6 +609,7 @@ FALLA Maiken Caspersen,Maiken Caspersen,Falla,Norway,NOR,Cross-Country Skiing,CC
 FALLMAN Johanna,Johanna,Fallman,Sweden,SWE,Ice Hockey,IHO
 FALYAKHOVA Landysh,Landysh,Falyakhova,ROC,ROC,Ice Hockey,IHO
 FAN Duoyao,Duoyao,Fan,People's Republic of China,CHN,Luge,LUG
+FAN Haibin,Haibin,Fan,People's Republic of China,CHN,Nordic Combined,NCB
 FAN Kexin,Kexin,Fan,People's Republic of China,CHN,Short Track Speed Skating,STK
 FAN SuYuan,SuYuan,Fan,People's Republic of China,CHN,Curling,CUR
 FAN Xiaobing,Xiaobing,Fan,People's Republic of China,CHN,Snowboard,SBD
@@ -853,6 +854,7 @@ GULINI Faye,Faye,Gulini,United States of America,USA,Snowboard,SBD
 GULLI Anita,Anita,Gulli,Italy,ITA,Alpine Skiing,ALP
 GUO Dan,Dan,Guo,People's Republic of China,CHN,Speed Skating,SSK
 GUO Jianing,Jianing,Guo,People's Republic of China,CHN,Ice Hockey,IHO
+GUO Yuhao,Yuhao,Guo,People's Republic of China,CHN,Nordic Combined,NCB
 GUSELI Valentino,Valentino,Guseli,Australia,AUS,Snowboard,SBD
 GUSEV Nikita,Nikita,Gusev,ROC,ROC,Ice Hockey,IHO
 GUSHUE Brad,Brad,Gushue,Canada,CAN,Curling,CUR
@@ -1092,7 +1094,6 @@ JAMES Scotty,Scotty,James,Australia,AUS,Snowboard,SBD
 JAMES Vanessa,Vanessa,James,Canada,CAN,Figure Skating,FSK
 JANATOVA Katerina,Katerina,Janatova,Czech Republic,CZE,Cross-Country Skiing,CCS
 JANCOVA Rebeka,Rebeka,Jancova,Slovakia,SVK,Alpine Skiing,ALP
-JANG Kikun,Kikun,Jang,Republic of Korea,KOR,Bobsleigh,BOB
 JANG Yujin,Yujin,Jang,Republic of Korea,KOR,Freestyle Skiing,FRS
 JANICKI Artur,Artur,Janicki,Poland,POL,Speed Skating,SSK
 JANKA Erika,Erika,Janka,Finland,FIN,Biathlon,BTH
@@ -1329,7 +1330,6 @@ KORCHUK Anton,Anton,Korchuk,Ukraine,UKR,Ski Jumping,SJP
 KORISTEK Jan,Jan,Koristek,Slovakia,SVK,Cross-Country Skiing,CCS
 KORZHAKOVA Veronika,Veronika,Korzhakova,ROC,ROC,Ice Hockey,IHO
 KOS Lovro,Lovro,Kos,Slovenia,SLO,Ski Jumping,SJP
-KOSAKA Rin,Rin,Kosaka,Japan,JPN,Speed Skating,SSK
 KOSIR Zan,Zan,Kosir,Slovenia,SLO,Snowboard,SBD
 KOSOVA Ekaterina,Ekaterina,Kosova,ROC,ROC,Snowboard,SBD
 KOTNIK Gloria,Gloria,Kotnik,Slovenia,SLO,Snowboard,SBD
@@ -2288,6 +2288,7 @@ SHIBANOVA Anna,Anna,Shibanova,ROC,ROC,Ice Hockey,IHO
 SHIFFRIN Mikaela,Mikaela,Shiffrin,United States of America,USA,Alpine Skiing,ALP
 SHIGA Akane,Akane,Shiga,Japan,JPN,Ice Hockey,IHO
 SHIGA Aoi,Aoi,Shiga,Japan,JPN,Ice Hockey,IHO
+SHIN Ye Chan,Ye Chan,Shin,Republic of Korea,KOR,Bobsleigh,BOB
 SHINHAMA Tatsuya,Tatsuya,Shinhama,Japan,JPN,Speed Skating,SSK
 SHIPACHYOV Vadim,Vadim,Shipachyov,ROC,ROC,Ice Hockey,IHO
 SHISHIUCHI Miho,Miho,Shishiuchi,Japan,JPN,Ice Hockey,IHO
@@ -2727,6 +2728,7 @@ WEIDEMANN Isabelle,Isabelle,Weidemann,Canada,CAN,Speed Skating,SSK
 WEIDLE Kira,Kira,Weidle,Germany,GER,Alpine Skiing,ALP
 WEIS Michelle,Michelle,Weis,Denmark,DEN,Ice Hockey,IHO
 WEISS Emma,Emma,Weiss,Germany,GER,Freestyle Skiing,FRS
+WEKPE Matthew,Matthew,Wekpe,Jamaica,JAM,Bobsleigh,BOB
 WENDL Tobias,Tobias,Wendl,Germany,GER,Luge,LUG
 WENG Heidi,Heidi,Weng,Norway,NOR,Cross-Country Skiing,CCS
 WENG Lotta Udnes,Lotta Udnes,Weng,Norway,NOR,Cross-Country Skiing,CCS
@@ -2802,6 +2804,7 @@ YAN Xingyuan,Xingyuan,Yan,People's Republic of China,CHN,Biathlon,BTH
 YANG Shuorui,Shuorui,Yang,People's Republic of China,CHN,Freestyle Skiing,FRS
 YANG Tao,Tao,Yang,People's Republic of China,CHN,Speed Skating,SSK
 YANKOV Radoslav,Radoslav,Yankov,Bulgaria,BUL,Snowboard,SBD
+YE Jielong,Jielong,Ye,People's Republic of China,CHN,Bobsleigh,BOB
 YE Jinguang,Jinguang,Ye,People's Republic of China,CHN,Ice Hockey,IHO
 YEATON Jessica,Jessica,Yeaton,Australia,AUS,Cross-Country Skiing,CCS
 YELESIN Alexander,Alexander,Yelesin,ROC,ROC,Ice Hockey,IHO
@@ -2858,6 +2861,7 @@ ZHAO Jiawen,Jiawen,Zhao,People's Republic of China,CHN,Nordic Combined,NCB
 ZHAO Jiawen,Jiawen,Zhao,People's Republic of China,CHN,Ski Jumping,SJP
 ZHAO Qinan,Qinan,Zhao,People's Republic of China,CHN,Ice Hockey,IHO
 ZHAO Yang,Yang,Zhao,People's Republic of China,CHN,Freestyle Skiing,FRS
+ZHAO Zihe,Zihe,Zhao,People's Republic of China,CHN,Nordic Combined,NCB
 ZHAROVTSEV Vladislav,Vladislav,Zharovtsev,ROC,ROC,Bobsleigh,BOB
 ZHEN Heng,Heng,Zhen,People's Republic of China,CHN,Bobsleigh,BOB
 ZHEN Weijie,Weijie,Zhen,People's Republic of China,CHN,Ski Jumping,SJP
